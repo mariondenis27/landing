@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lora|Roboto&display=swap);
+
 
 body {
 font-family: 'Lora', serif;
@@ -12,6 +14,7 @@ h1, h2, h3 {
 a {
 text-decoration: none;
 }
+
 
 .container {
 	width: 700px;
@@ -97,11 +100,17 @@ text-decoration: none;
 	margin-bottom: 40px;
 }	
 
+
 .avatar {
 	width: 60px;
 	height: 60px;
 	border-radius: 50%;
 }
+
+
+
+
+
 
 
 
